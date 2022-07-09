@@ -21,7 +21,7 @@ A MERN stack application that allows user to be able to signup and login in to a
 
 <a href="#technologies">Technologies Used</a>
 
-<a href="#tests">Tests</a> 
+<a href="#links">Links</a> 
 
 <a href="questions">Questions</a> 
 
@@ -57,9 +57,9 @@ Mike Kuney
     -Apollo Server
     -GraphQL
     -Heroku
-## <h2 id="tests">**Tests**</h2>
-
-
+## <h2 id="links">**Tests**</h2>
+https://github.com/Mikekuney/Book-Search-Engine
+https://floating-cove-86387.herokuapp.com/
 ## <h2 id="questions">**Questions**</h2>
 If you have any questions about the repo, please contact me at: 
 
