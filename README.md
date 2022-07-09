@@ -58,9 +58,9 @@ Mike Kuney
     -GraphQL
     -Heroku
 ## <h2 id="links">**Links**</h2>
-    -https://github.com/Mikekuney/Book-Search-Engine
+https://github.com/Mikekuney/Book-Search-Engine
 
-    -https://floating-cove-86387.herokuapp.com/
+https://floating-cove-86387.herokuapp.com/
 ## <h2 id="questions">**Questions**</h2>
 If you have any questions about the repo, please contact me at: 
 
