@@ -5,7 +5,9 @@
 ## **Purpose**
 A MERN stack application that allows user to be able to signup and login in to an account so they may search for books of their liking and add them to a list of saved books, which they can then view and delete. 
 ## **Video/Images**
-
+![BSimage1](https://user-images.githubusercontent.com/96913841/178110598-d36da5cb-ce3d-41dd-8441-7b1c43f3f809.png)
+![BSimage2](https://user-images.githubusercontent.com/96913841/178110625-23b04d45-6b20-4b87-a121-87ba435f10aa.png)
+![BSimage3](https://user-images.githubusercontent.com/96913841/178110636-ddf0bb59-38c8-4eb9-8797-e62f27705cfc.png)
 
 
 ## **Table of Contents**
